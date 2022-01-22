@@ -1,0 +1,4 @@
+aiogram<3.0
+environs~=8.0.0
+python-dotenv~=0.19.2
+aioredis~=2.0.1
